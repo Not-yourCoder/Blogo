@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.11",
+    "@mui/material": "^5.14.11",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "html-react-parser": "^4.2.2",
+    "moment": "^2.29.4",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-multi-carousel": "^2.8.4",
+    "sass": "^1.68.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "^3.3.3"
+  }
+}
